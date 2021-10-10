@@ -20,6 +20,7 @@ The second column contains the integer, expressed in exactly 3 digits; if the or
 import java.util.Scanner;
 
 public class Solution1 {
+//Start the main class
 
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
