@@ -23,6 +23,7 @@ public class If_Else {
 
     public static void main(String[] args) {
         int N = scanner.nextInt();
+
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
         String ans="";
         if (N%2==1){
