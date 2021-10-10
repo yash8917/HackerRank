@@ -28,7 +28,6 @@ public class Solution1 {
             String s1=sc.next();
             int x=sc.nextInt();
             System.out.printf("%-14s %03d\n",s1,x);
-            //Complete this line
         }
         System.out.println("================================");
 
