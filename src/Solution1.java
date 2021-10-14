@@ -18,7 +18,6 @@ The second column contains the integer, expressed in exactly 3 digits; if the or
  */
 
 import java.util.Scanner;
-
 public class Solution1 {
 //Start the main class
 
