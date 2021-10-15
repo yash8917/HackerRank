@@ -28,6 +28,7 @@ public class Solution1 {
         {
             String s1=sc.next();
             int x=sc.nextInt();
+
             //this is the formated output so use (printf)
             System.out.printf("%-14s %03d\n",s1,x);
         }//end of the for loop
