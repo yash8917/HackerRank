@@ -17,7 +17,6 @@ import java.io.*;
 
 public class If_Else {
 
-
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
