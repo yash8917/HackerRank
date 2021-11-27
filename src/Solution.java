@@ -27,6 +27,7 @@ Note: We recommend completing Java Stdin and Stdout I before attempting this cha
         String: Welcome to HackerRank's Java tutorials!
         Double: 3.1415
         Int: 42*/
+---------------------------------------------------------------------------------------------------------------------
 import java.util.Scanner;
 
 public class Solution {
