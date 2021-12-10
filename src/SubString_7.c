@@ -22,7 +22,7 @@
 //Hackerrank is good platform.
 //bad
 //Sample Output 1
-//
+
 //0
 #include <stdio.h>
 #include <string.h>
