@@ -15,7 +15,6 @@ import java.io.*;
         import java.util.concurrent.*;
         import java.util.regex.*;
 
-
 public class If_Else {
 
     private static final Scanner scanner = new Scanner(System.in);
