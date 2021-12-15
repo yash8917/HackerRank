@@ -33,7 +33,6 @@ public class Solution1 {
             System.out.printf("%-14s %03d\n",s1,x);
         }//end of the for loop
         System.out.println("================================");
-
     }//end of the main class
 }//End of the class
 
