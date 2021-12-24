@@ -49,7 +49,7 @@ int main() {
         printf("0");
     }
     
-   
+  
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
     return 0;
 }
