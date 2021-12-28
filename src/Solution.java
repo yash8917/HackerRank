@@ -19,6 +19,7 @@ Note: We recommend completing Java Stdin and Stdout I before attempting this cha
         Note: If you use the nextLine() method immediately following the nextInt() method, recall that nextInt() reads integer tokens; because of this, the last newline character for that line of integer input is still queued in the input buffer and the next nextLine() will be reading the remainder of the integer line (which is empty).
 ------------------------------------------------
         Sample Input
+        
         42
         3.1415
         Welcome to HackerRank's Java tutorials!
