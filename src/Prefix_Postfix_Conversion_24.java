@@ -22,7 +22,6 @@ Sample Output 0
 
 ((A+B)*(C-D))
 Explanation 0
-
 x+AB-CD is the input prefix and it's corresponding infix from is ((A+B)x(C-D)).*/
         import java.util.*;
 
