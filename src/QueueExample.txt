@@ -55,6 +55,6 @@ public class Solution {
         Scanner sc=new Scanner(System.in);
        String str=sc.next();
         firstnonrep(str);
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        /* Enter your code here.Safetly Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
     }
 }
